@@ -1,8 +1,0 @@
-The use of semantic tags in web development has numerous benefits,
-as they help improve the overall accessibility and SEO of a website.
-Semantic tags help visually impaired users to navigate websites more effectively, 
-as these tags indicate the purpose and structure of the content. Additionally,
-search engines also utilize these tags to better understand the content and context of web pages,
-which can result in better rankings and visibility.
-Lastly, semantic tags help developers to write cleaner and more organized code,
-leading to improved maintainability and scalability.

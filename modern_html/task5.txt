@@ -1,7 +1,0 @@
-Tab index is a feature that allows keyboard users to navigate through websites using the "Tab" key. 
-The tab index order is determined by the website developer, 
-and it can include links, form fields, 
-buttons, and other interactive elements.
-This feature is especially important for users who rely on assistive technologies to access the web.
-By setting a logical tab order, developers can ensure that their website is fully accessible to all users, 
-regardless of their input method.
