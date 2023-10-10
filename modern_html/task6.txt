@@ -1,0 +1,9 @@
+1. <header>: This tag defines the header section of a webpage, which may include elements such as a logo, navigation menu, and introductory text. It is typically placed at the top of the page.
+
+2. <nav>: This tag defines a navigation menu, which contains links to other parts of a webpage or other webpages altogether. It is often placed within the header section of a webpage.
+
+3. <article>: This tag defines a self-contained piece of content, such as a blog post, news article, or product description. It may be used multiple times within a webpage.
+
+4. <section>: This tag defines a thematic grouping of content, such as a section of an article, a chapter of a book, or a category of products. It is often used to enhance the organization of a webpage.
+
+5. <footer>: This tag defines the footer section of a webpage, which may include elements such as copyright information, social media links, and contact information. It is typically placed at the bottom of the page.
