@@ -1,0 +1,5 @@
+1. Using ARIA attributes: Adding ARIA attributes such as aria-label, aria-describedby, and aria-hidden can make HTML elements more accessible for screen readers and other assistive technologies. 
+
+2. Providing alternative text for images: Using the alt attribute to describe images can help screen readers understand what images are included on a webpage, and can also improve the webpage's SEO. 
+
+3. Creating a logical page structure: Using proper heading tags (H1, H2, H3, etc.) and semantic markup can help organize content on a webpage, making it easier for users to navigate with screen readers and other assistive technologies.
