@@ -1,0 +1,11 @@
+HTML entities are special codes used to represent characters and symbols in HTML documents. They are often used to display characters that have special meanings in HTML, such as < and >, or characters that are not easily typed on a keyboard. Here are five common HTML entities:
+
+1. `&lt;` - Represents the less-than sign (<). This is used to display the "<" character in HTML without it being interpreted as the start of an HTML tag.
+
+2. `&gt;` - Represents the greater-than sign (>). This is used to display the ">" character in HTML without it being interpreted as the end of an HTML tag.
+
+3. `&amp;` - Represents the ampersand (&). This is used to display the "&" character in HTML without it being interpreted as the start of an entity reference.
+
+4. `&quot;` - Represents a double quotation mark ("). This is used to display double quotes within attribute values of HTML tags.
+
+5. `&copy;` - Represents the copyright symbol (©). This is used to display the copyright symbol in HTML documents.
